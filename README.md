@@ -3,7 +3,7 @@
 GitHubフローの学習を目的に作成したシンプルなTodoアプリです。
 
 ## 🌐 デプロイ先
-https://rock-hill.github.io/todoapp-github-flow-tutorial/
+[アプリをデモで確認する](https://rock-hill.github.io/todoapp-github-flow-tutorial/)
 
 ## 🚀 概要
 このプロジェクトは、プログラミングチュートリアル（YouTube）を参考に、GitコマンドとGitHubでのプルリクエスト、コードレビュー、マージの流れを習得するために作成しました。
